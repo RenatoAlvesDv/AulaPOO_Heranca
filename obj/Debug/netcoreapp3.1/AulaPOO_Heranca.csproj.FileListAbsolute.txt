@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.genruntimeconfig.cache
